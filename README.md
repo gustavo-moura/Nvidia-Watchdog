@@ -1,6 +1,6 @@
 ---
 title: Nvidia Watchdog Dashboard
-author: Gustavo Souza - gustavo.souza@eldorado.org.br
+author: Gustavo Souza - gus.moura@outlook.com
 date: 19.09.19
 ---
 
